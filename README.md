@@ -4,6 +4,7 @@ My list of custom elements / web components & related libraries.
 ## List of my Custom Elements & related libraries
 
 - [ce-mixinprops](https://github.com/Jashepp/customElements-mixinPropertiesAttributes) (library) - Mixin to handle/sync properties and attributes. [[github]](https://github.com/Jashepp/customElements-mixinPropertiesAttributes) [[npm]](https://npmjs.org/package/ce-mixinprops)
+- more coming soon
 
 ## List of other's Custom Elements & libraries
 
